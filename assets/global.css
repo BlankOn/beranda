@@ -1,0 +1,57 @@
+.link-post {
+  text-decoration: none;
+  color: inherit;
+}
+
+.post {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #ffffff;
+    background-clip: border-box;
+    border: 1px solid rgba(0, 0, 0, 0.125);
+    border-radius: 0.25rem;
+    height: 240px;
+    margin-bottom: 30px;
+    overflow: hidden;
+}
+
+.post-title {
+  text-align: center;
+  font-weight: 400;
+  font-size: larger;
+  display: flex;
+  justify-content: space-between;
+}
+
+.post-body {
+    flex: 1 1 auto;
+    min-height: 1px;
+    padding: 1.25rem;
+}
+
+.btn-more-post {
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.title-jumbo {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: url("../assets/images/mosaic_1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #ffffff;
+}
+
+.title-jumbo-post {
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background: url("../assets/images/mosaic_1.png");
+  background-size: cover;
+  background-repeat: no-repeat;
+  color: #ffffff;
+  text-align: center;
+}

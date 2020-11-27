@@ -1,0 +1,18 @@
+---
+layout: default
+title: BlankOn - Blog
+---
+
+<div class="header parallax home-parallax page">
+  <div class="container">
+    <div class="title-jumbo-post">
+      <h1>{{ page.title }}</h1>
+    </div>
+  </div>
+</div>
+
+<div class="container">
+  <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+
+  {{ content }}
+</div>

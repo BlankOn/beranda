@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{{ page.title }}</title>
+  <link rel="shortcut icon" href="/assets/images/favicon.ico">
+  <link href="/assets/style.css" rel="stylesheet">
+  <link href="/assets/global.css" rel="stylesheet">
+</head>
+<body>
+
+  {% include preloader.html %}
+
+  {{ content }}
+
+<!-- =========================
+     FOOTER
+============================== -->
+<section class="copyright">
+  <h2></h2>
+  <div class="container">
+    <div class="row">
+      <div class="col-md-6">
+        <div class="copy_right_text">
+          <!-- COPYRIGHT TEXT -->
+          <p>Copyright &copy; 2005-2018 </br>Tim Pengembang BlankOn</a></p>
+        </div>
+      </div>
+
+      <div class="col-md-6">
+        <div class="scroll_top">
+          <a href="#BERANDA"><i class="fa fa-angle-up"></i></a>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+<!-- END FOOTER -->
+
+
+<!-- =========================
+     SCRIPTS
+============================== -->
+<script src="/assets/libs.js"></script>
+
+{% if page.url == "/" %}
+  <script>
+    $('.owl-carousel').owlCarousel({
+      loop: true,
+      margin: 10,
+      autoplay: true,
+      autoWidth: true,
+      responsiveClass: true,
+      responsive: {
+        0: {
+          items: 1,
+          nav: true
+        },
+        600: {
+          items: 3,
+          nav: false
+        },
+        1000: {
+          items: 5,
+          nav: true,
+          loop: false
+        }
+      }
+    })
+  </script>
+{% endif %}
+
+</body>
+</html>

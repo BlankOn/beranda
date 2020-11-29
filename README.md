@@ -1,5 +1,14 @@
 # BlankOn Home & Blogs
 
+
+# TODO
+
+* Change sponsor level
+* add menu blog/berita
+* Update new logo sponsor untuk rafi
+* Halaman Menjadi Sponsor?
+* Halaman Menjadi Mitra?
+
 openSUSE News Website, providing news to the community.
 
 ## How to submit a new post?

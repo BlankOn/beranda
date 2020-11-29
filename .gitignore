@@ -3,10 +3,12 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=jekyll,vscode,windows
 
 ### Jekyll ###
-_site/
-.sass-cache/
+.bundle/
 .jekyll-cache/
 .jekyll-metadata
+.sass-cache/
+_site/
+vendor/
 
 ### vscode ###
 .vscode/*

@@ -12,7 +12,20 @@ title: BlankOn - Blog
 </div>
 
 <div class="container">
-  <p>{{ page.date | date_to_string }} - {{ page.author }}</p>
 
-  {{ content }}
+  <div class="info-post">
+    <div>
+      {{ page.date | date_to_string }} | {{ page.author }}
+    </div>
+  </div>
+
+  <div class="isi-post">
+    {{ content }}
+  </div>
+
+  <hr>
+  <div class="info2-post">
+    <p>Categories : {{ page.categories }}</p>
+    <p>Tags : {{ page.tags }}</p>
+  </div>
 </div>

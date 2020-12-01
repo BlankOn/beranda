@@ -55,3 +55,28 @@
   color: #ffffff;
   text-align: center;
 }
+
+.info-post {
+  display: flex;
+  justify-content: center;
+  margin: 30px;
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.info2-post {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.isi-post {
+  text-align: justify;
+}
+
+img {
+  max-width: 1000px;
+  display: block;
+  align-items: center;
+}

@@ -13,6 +13,10 @@
 
   {% include preloader.html %}
 
+  {% if page.url != "/" %}
+    {% include nav.html %}
+  {% endif %}
+
   {{ content }}
 
 <!-- =========================

@@ -1,15 +1,18 @@
-# BlankOn Home & Blogs
+# BlankOn Home & News
 
 
 # TODO
 
-* Change sponsor level
-* add menu blog/berita
-* Update new logo sponsor untuk rafi
-* Halaman Menjadi Sponsor?
-* Halaman Menjadi Mitra?
+* Update Readme
+* Perbaiki tampilan halaman post, tambah menu (radit)
+* Change sponsor level, Update new logo sponsor untuk rafi | PIC Estu
+* add menu blog/berita (done)
+* Halaman Menjadi Sponsor? - Translate | disable menu (done)
+* Halaman Menjadi Mitra? - Translate | disable menu (done)
+* Rilis berita server baru (estu)
+* Deploy Production (samsul)
 
-openSUSE News Website, providing news to the community.
+BlankOn News Website, providing news to the community.
 
 ## How to submit a new post?
 

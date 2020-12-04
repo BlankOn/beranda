@@ -1,34 +1,38 @@
 # BlankOn Home & News
 
+BlankOn News Website, providing news to the community.
 
 # TODO
 
-* Update Readme
-* Perbaiki tampilan halaman post, tambah menu (radit)
-* Change sponsor level, Update new logo sponsor untuk rafi | PIC Estu
-* add menu blog/berita (done)
 * Halaman Menjadi Sponsor? - Translate | disable menu (done)
 * Halaman Menjadi Mitra? - Translate | disable menu (done)
 * Rilis berita server baru (estu)
 * Deploy Production (samsul)
 
-BlankOn News Website, providing news to the community.
+## Sponsor Level
+* Peta Level
+- badak host | https://www.hostbadak.com/
+- radnet | https://www.rad.net.id/
+* Tera Level
+- Datautama | https://datautama.net.id/
+- Fans | https://sepatuku.fans.co.id/
+- Btech | https://btech.id/
 
 ## How to submit a new post?
 
-1. Create a new markdown file in `_posts` directory. File name should follow `yyyy-mm-dd-title.md` format. For example, `2020-02-27-my-first-post.md`. You can start by clicking [this link](https://github.com/openSUSE/news-o-o/new/master/?filename=_posts/2020-02-27-my-first-post.md).
+1. Create a new markdown file in `_posts` directory. File name should follow `yyyy-mm-dd-title.md` format. For example, `2020-02-27-my-first-post.md`. You can start by clicking [this link](https://github.com/tuanpembual/blankon-beranda/blob/master/_posts/2018-08-20-bananas.md).
 
-2.  Please use an illustration image with at least 1153x505px size. It should be placed as well in its own directory named with the date format `yyyy-mm-dd` in `/assets/images`. For example: `/assets/images/2020-02-27/my-first-post-image.png`. If you need help with creating some approriate image feel free to ask in #artwork on IRC, Matrix or Discord.
+2.  Please use an illustration image with at least 1153x505px size. It should be placed as well in its own directory named with the date format `yyyy-mm-dd` in `/assets/posts`. For example: `/assets/posts/2020-12/boni.png`. If you need help with creating some approriate image feel free to ask in Tim Kesenian.
 
 3. Write content. You can start with the following template:
     ```
     ---
-    author: Stasiek Michalski
-    date: 2020-02-27 19:27:17+00:00
+    author: Maskot Boni
+    date: 2020-12-27 19:27:17+00:00
     layout: post
     license: CC-BY-SA-3.0
     title: My First Post
-    image: /assets/images/omw.png
+    image: /assets/posts/2020-12/omw.png
     categories:
     - Announcements
     tags:
@@ -68,8 +72,4 @@ We are using the [Jemoji plugin](https://github.com/jekyll/jemoji), which allows
 For example, `it's raining :cat:s and :dog:s!`, will be rendered as:
 
 > it's raining :cat:s and :dog:s!
-
-## How to update the theme?
-
-If there's a newer revison of the [openSUSE jekyll-theme](https://github.com/openSUSE/jekyll-theme) you need to put the commit id into [Gemfile.lock](https://github.com/openSUSE/news-o-o/blob/master/Gemfile.lock#L3) and count up the [version number](https://github.com/openSUSE/news-o-o/blob/master/Gemfile.lock#L5).
 

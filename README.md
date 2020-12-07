@@ -6,17 +6,6 @@ BlankOn News Website, providing news to the community.
 
 * Halaman Menjadi Sponsor? - Translate | disable menu (done)
 * Halaman Menjadi Mitra? - Translate | disable menu (done)
-* Rilis berita server baru (estu)
-* Deploy Production (samsul)
-
-## Sponsor Level
-* Peta Level
-- badak host | https://www.hostbadak.com/
-- radnet | https://www.rad.net.id/
-* Tera Level
-- Datautama | https://datautama.net.id/
-- Fans | https://sepatuku.fans.co.id/
-- Btech | https://btech.id/
 
 ## How to submit a new post?
 

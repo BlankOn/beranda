@@ -6,9 +6,9 @@ license: CC-BY-SA-3.0
 title: Kunjungan Fisik Waljinah
 image: /assets/images/omw.png
 categories:
-- Announcements
+- berita
 tags:
-- infrastructure
+- infra
 
 ---
 

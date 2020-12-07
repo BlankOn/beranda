@@ -4,13 +4,14 @@ date: 2020-11-18 19:27:17+00:00
 layout: post
 license: CC-BY-SA-3.0
 title: Urunan Pengembangan BlankOn
-image: /assets/posts/2020-12/kitabisa.png
+image: /assets/posts/2020-12/boni.png
 categories:
 - berita
 tags:
 - humas
 
 ---
+<p align="center">   <img src="/assets/posts/2020-12/boni.png"> </p>
 Hallo Pengguna BlankOn!
 
 Tim Pengembang BlankOn memutuskan untuk membuka kanal donasi untuk pengembangan BlankOn melalui media KitaBisa.com. Silahkan menuju halaman [kitabisa.com](https://kitabisa.com/campaign/urunanpengembanganblankon) untuk mulai berdonasi.

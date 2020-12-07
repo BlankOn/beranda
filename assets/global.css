@@ -75,6 +75,14 @@
   text-align: justify;
 }
 
+.isi-post img {
+  max-width: 80%;
+  max-height: 80%;
+  text-align: center;
+  margin:auto;
+  padding: 30px;
+}
+
 img {
   max-width: 1000px;
   display: block;

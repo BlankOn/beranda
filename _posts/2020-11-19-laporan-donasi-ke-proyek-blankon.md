@@ -15,5 +15,7 @@ Hallo Pengguna BlankOn!
 
 Berikut laporan donasi ke Proyek BlankOn
 
+<iframe height="800" width="90%" align="middle" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vR-yVcKqYERsoaFu7fw5LLV-GJ4srDg6LFXXEuU91PlALDRVEDoZmNJAn5SALyleVm4U46x4-Wsi9In/pubhtml?widget=true"></iframe>
+
 Salam,
 Tim Pengembang BlankOn

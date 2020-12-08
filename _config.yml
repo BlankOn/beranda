@@ -18,3 +18,20 @@ strict_front_matter : false
 # Plugins
 whitelist           : []
 plugins             : []
+
+timezone: "Asia/Jakarta"
+markdown: kramdown
+highlighter: rouge
+#permalink: /berita/:year/:title/
+paginate: 5
+
+navbar-links:
+  Beranda: "#BERANDA"
+  Berita: /berita/
+  Tentang: "#TENTANG"
+  Fitur: "#FITUR"
+  Pemasangan: "#PEMASANGAN"
+  Unduh: "#UNDUH"
+  Sponsor: "#SPONSOR"
+  #Menjadi Sponsor: "/menjadi-sponsor.html"
+  Bergabung: "https://github.com/BlankOn/wiki/blob/master/Memulai.md"

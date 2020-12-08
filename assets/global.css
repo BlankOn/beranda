@@ -88,3 +88,7 @@ img {
   display: block;
   align-items: center;
 }
+
+.nav-link {
+  text-transform: uppercase;
+}

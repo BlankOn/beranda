@@ -17,13 +17,19 @@ strict_front_matter : false
 
 # Plugins
 whitelist           : []
-plugins             : []
+plugins             : ["jekyll-sitemap"]
+
+title: BlankOn - Linux OS
+description: Ekosistem perangkat lunak legal dan kreatif, untuk, dan oleh anak negeri.
+keyword: distro linux,open source,
 
 timezone: "Asia/Jakarta"
 markdown: kramdown
 highlighter: rouge
 #permalink: /berita/:year/:title/
-paginate: 5
+# paginate: 5
+# paginate_path: "/berita/page:num/"
+excerpt_length: 50
 
 navbar-links:
   Beranda: "#BERANDA"

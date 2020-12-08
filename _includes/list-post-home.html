@@ -18,22 +18,22 @@
       <div class="row">
         {% for post in site.posts %}
           <div class="col-md-6">
-            <a href="{{ post.url }}" class="link-post">
               <div class="post">
                 <div class="post-body">
+                  <a href="{{ post.url }}" class="link-post">
                   <h5 class="post-title">
                     <div>
                       {{ post.title }}
-                    </div> 
+                    </div>
                     <div>
                       {{ post.date | date: "%-d %B %Y"}}
                     </div>
                   </h5>
+                </a>
                   <p class="card-text">{{ post.excerpt }}</p>
                   <a href="{{ post.url }}" class="btn btn-primary">Lebih lanjut...</a>
                 </div>
               </div>
-            </a>
           </div>
         {% endfor %}
       </div>

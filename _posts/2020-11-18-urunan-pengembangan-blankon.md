@@ -11,7 +11,9 @@ tags:
 - humas
 
 ---
-<p align="center">   <img src="/assets/posts/2020-12/boni.png"> </p>
+
+![](/assets/posts/2020-12/boni.png){: .text-center .img-responsive }
+
 Hallo Pengguna BlankOn!
 
 Tim Pengembang BlankOn memutuskan untuk membuka kanal donasi untuk pengembangan BlankOn melalui media KitaBisa.com. Silahkan menuju halaman [kitabisa.com](https://kitabisa.com/campaign/urunanpengembanganblankon) untuk mulai berdonasi.

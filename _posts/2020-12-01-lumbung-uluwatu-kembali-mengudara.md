@@ -15,7 +15,7 @@ Sekilat Info untuk Pengguna BlankOn Linux
 
 Hallo Pengguna BlankOn!
 
-<p align="center">   <img src="/assets/posts/2020-12/uluwatu-desktop.png"> </p>
+![](/assets/posts/2020-12/uluwatu-desktop.png){: .text-center }
 
 Ada kabar terbaru nih dari Tim Pengembang BlankOn. Saat ini lumbung (Repository) BlankOn Uluwatu sudah kembali mengudara. Lumbung BlankOn Uluwatu sempat tidak dapat diakses beberapa waktu lalu dikarenakan kerusakan sistem dan perangkat keras.
 

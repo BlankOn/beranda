@@ -39,5 +39,5 @@ Irgsh-go memiliki beberapa komponen dengan fungsi yang berbeda-beda, antara lain
 ## Pabrik Penjahit ISO BlankOn
 Penjahitan ISO distribusi saat ini menggunakan perkakas live-build sebagai pengganti perkakas pabrik cd warisan rilis sebelumnya yang sudah tidak dipelihara dan sudah ditinggalkan. Adopsi live-build adalah salah satu proses transisi tim pengembang untuk mengikuti protokol dan standar pengembangan distribusi turunan Debian. Dengan menggunakan live-build, distribusi BlankOn Linux kesempatan yang sama atas akses terhadap teknologi-teknologi baru yang dipakai pada distribusi modern turunan Debian lainnya seperti Ubuntu, PopOS, Elementary dan lainnya. Keluaran dari riset ini adalah konfigurasi final bagaimana BlankOn Verbeek dijahit menggunakan perkakas live-build.
 
-Salam,
+Salam,  
 Tim Pengembang BlankOn

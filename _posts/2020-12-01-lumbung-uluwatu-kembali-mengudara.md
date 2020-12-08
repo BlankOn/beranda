@@ -28,5 +28,5 @@ Jejak tiket terkait permasalahan ini dapat dilihat bersama pada halaman :
 
 Merdeka untuk perangkat lunak terbuka, Terima kasih.
 
-Salam,
+Salam,  
 Tim Pengembang BlankOn

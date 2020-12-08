@@ -25,5 +25,5 @@ Rekaman kelas dapat diakses di [kanal youtube BlankOn Linux](https://www.youtube
 
 Terimakasih tim Qatros yang sudah menyempatkan diri berbagi pengetahuan dalam bidang tulis menulis, semoga kelas ini dapat dilanjut dimasa akan datang.
 
-Salam
+Salam  
 Humas

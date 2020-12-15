@@ -17,7 +17,7 @@ strict_front_matter : false
 
 # Plugins
 whitelist           : []
-plugins             : []
+plugins             : [jekyll-paginate]
 
 timezone: "Asia/Jakarta"
 markdown: kramdown

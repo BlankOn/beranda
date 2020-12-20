@@ -16,17 +16,17 @@ BlankOn News Website, providing news to the community.
 3. Write content. You can start with the following template:
     ```
     ---
-    author: Maskot Boni
+    author: boni
+    editor: verbeek
     date: 2020-12-27 19:27:17+00:00
     layout: post
     license: CC-BY-SA-3.0
     title: My First Post
     image: /assets/posts/2020-12/omw.png
     categories:
-    - Announcements
+    - berita
     tags:
-    - infrastructure
-    - websites
+    - infra
     ---
 
     Write you post in Markdown and HTML...

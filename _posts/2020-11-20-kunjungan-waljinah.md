@@ -1,5 +1,6 @@
 ---
 author: Herpiko Dwi Aguno
+editor: Estu
 date: 2020-11-20 19:27:17+00:00
 layout: post
 license: CC-BY-SA-3.0

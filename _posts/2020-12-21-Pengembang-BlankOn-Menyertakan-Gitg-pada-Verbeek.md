@@ -5,7 +5,7 @@ date: 2020-12-21 23:27:17+00:00
 layout: post
 license: CC-BY-SA-3.0
 title: Pengembang BlankOn akan Menyertakan Gitg pada Verbeek
-image: /assets/posts/2020-12/gitg.gif
+image: /assets/posts/2020-12/gitg.jpeg
 categories:
 - berita
 tags:
@@ -13,7 +13,7 @@ tags:
 
 ---
 
-![](/assets/posts/2020-12/gitg.gif){: .text-center .img-responsive }
+![](/assets/posts/2020-12/gitg.jpeg){: .text-center .img-responsive }
 
 
 Ada kabar gembira dari BlankOn nih. Rilis citra harian [Verbeek](https://github.com/BlankOn/Verbeek) yang semula dijadwalkan pada awal tahun 2021, ternyata sudah dapat dilaksanakan pada akhir tahun 2020. Verbeek (dibaca:verbik) adalah nama pegunungan yang terletak di perbatasan provinsi Sulawesi Tengah dan Sulawesi Selatan. Nama Verbeek dipilih sebagai nama kode BlankOn XII karena berawalan huruf V dan mewakili salah daerah di Indonesia.

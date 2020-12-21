@@ -3,6 +3,8 @@ layout: default
 title: BlankOn - Blog
 ---
 
+{% include nav-sosmed.html %}
+
 <div class="header parallax home-parallax page">
   <div class="container">
     <div class="title-jumbo-post">
@@ -28,6 +30,7 @@ title: BlankOn - Blog
   <hr>
   <div class="info2-post">
     <p>Author : {{ page.author }}</p>
+    <p>Editor : {{ page.editor }}</p>
     <p>Categories : {{ page.categories }}</p>
     <p>Tags : {{ page.tags }}</p>
   </div>

@@ -1,5 +1,6 @@
 ---
-author: Humas
+author: Estu
+editor: Herpiko
 date: 2020-12-06 07:27:17+00:00
 layout: post
 license: CC-BY-SA-3.0
@@ -11,7 +12,7 @@ tags:
 - infra
 
 ---
-Dengan tulisan kali ini, tim pengembang blankon mengumumkan memulai menggunakan mesin [Rafi.BlankonLinux.Or.Id](http://rafi.blankonlinux.or.id) yang menggantikan tugas mesin Waljinah.Or.id.
+Dengan tulisan kali ini, tim pengembang blankon mengumumkan memulai menggunakan mesin [Rafi.BlankonLinux.Or.Id](http://rafi.blankonlinux.or.id) yang menggantikan tugas mesin [Waljinah.BlankonLinux.Or.Id](http://waljinah.blankonlinux.or.id).
 
 Nama Rafi dipilih karena untuk mengenang salah satu pengembang BlankOn Linux di Era 2016-2018.
 

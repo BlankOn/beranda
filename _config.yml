@@ -17,7 +17,7 @@ strict_front_matter : false
 
 # Plugins
 whitelist           : []
-plugins             : ["jekyll-sitemap"]
+plugins             : ["jekyll-sitemap","jekyll-paginate"]
 
 title: BlankOn - Linux OS
 description: Ekosistem perangkat lunak legal dan kreatif, untuk, dan oleh anak negeri.

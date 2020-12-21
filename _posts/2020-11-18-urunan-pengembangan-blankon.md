@@ -1,5 +1,6 @@
 ---
-author: Humas
+author: Estu
+editor: Herpiko
 date: 2020-11-18 19:27:17+00:00
 layout: post
 license: CC-BY-SA-3.0

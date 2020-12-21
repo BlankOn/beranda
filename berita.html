@@ -14,16 +14,17 @@ permalink: /berita/
   </div>
 </div>
 
-<section id="FITUR" class="features page">
+<section id="berita" class="features page">
   <div class="container">
     <div class="row" style="margin-bottom:50px;">
       <div class="col-md-10 col-md-offset-1">
         <h1>Berita terbaru</h1>
         <ul>
           {% for post in site.posts %}
-          <li>
+          <li class="post-list">
             <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-            {{ post.excerpt }}
+            {% assign excerpt_length = site.excerpt_length | default: 50 %}
+            {{ post.excerpt | strip_html | xml_escape | truncatewords: excerpt_length }}
           </li>
           {% endfor %}
         </ul>

@@ -61,6 +61,10 @@
   flex-wrap: wrap;
 }
 
+.post-list {
+  list-style: none;
+}
+
 .post-body {
     flex: 1 1 auto;
     min-height: 1px;

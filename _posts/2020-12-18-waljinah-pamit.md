@@ -21,5 +21,5 @@ Mesin waljinah mulai bertugas sejak tahun 2011 berlokasi di rumah Soerabaia Netw
 ![](/assets/posts/2020-12/waljinah-pamit.jpg){: .text-center }
 Waljinah sebelum pamit.
 
-Terimakasih Waljinah dan Soerabaia Network.
-Tabik
+Terima kasih Waljinah dan Soerabaia Network.  
+Tabik.

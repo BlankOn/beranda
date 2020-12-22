@@ -13,13 +13,13 @@ tags:
 
 ---
 
-IRGSH merupakan perkakas untuk membangun paket dalam format Deb, kemudian menyuntikkannya dalam lumbung BlankOn. IRGSH diinisiasi oleh pengembang senior, di era Bapak Fajran, MDAMT dan Pak Aftian. IRGSH mulai aktif beroperasi pada rilis BlankOn ke3  Pada tahun Lontara. IRGSH mengalami kendala karena keterbatasan dukunga pustaka Python 2.6 yang sudah mulai ditinggalkan oleh para perawat pustaka Python, sehingga tidak dapat beroperasi dengan sebagaimana mestinya. Oleh karena itu para pengembang BlankOn melakukan pengembangan IRGSH sehingga lahirlah IRGSH-go
+IRGSH merupakan perkakas untuk membangun paket dalam format Deb, kemudian menyuntikkannya dalam lumbung BlankOn. IRGSH diinisiasi oleh pengembang senior, di era Bapak Fajran, MDAMT dan Pak Aftian. IRGSH mulai aktif beroperasi pada rilis BlankOn Lontara. IRGSH mengalami kendala karena keterbatasan dukungan pustaka Python 2.6 yang sudah mulai ditinggalkan oleh para perawat pustaka Python, sehingga tidak dapat beroperasi dengan sebagaimana mestinya. Oleh karena itu para pengembang BlankOn melakukan pengembangan IRGSH sehingga lahirlah IRGSH-go.
 
-![Siklus kerja irgsh](https://user-images.githubusercontent.com/10925212/102252385-9b3b3800-3f38-11eb-8cc0-62dbe4631f48.png){: .text-center }
+![Siklus kerja irgsh](/assets/posts/2020-12/irgsh-flow.png){: .text-center }
 
 Pengembangan IRGSH-go ini antara lain bertujuan agar dapat digunakan memasang paket individual secara terpisah dengan irgsh-chief, irgsh-repo, irgsh-builder, dan irgsh-cli.
 
-IRGSH-go merupakan pengembangan dari irgsh lama. IRGSH (dibaca irgis) merupakan alat untuk membuat dan memelihara distribusi GNU / Linux yang diturunkan dari Debian. IRGSH dapat menjalankan tugas mulai pemaketan sampai ke lumbung, dari ISO build hingga manajemen rilis. Catatan tentang penggunaan irgish-go ditemukan pada halaman [github BlankOn](https://github.com/BlankOn/irgsh-go/).
+IRGSH-go merupakan penulisan ulang dari irgsh lama. IRGSH (dibaca irgis) merupakan alat untuk membuat dan memelihara distribusi GNU / Linux yang diturunkan dari Debian. IRGSH dapat menjalankan tugas mulai pemaketan sampai ke lumbung, dari ISO build hingga manajemen rilis. Catatan tentang penggunaan irgish-go ditemukan pada halaman [github BlankOn](https://github.com/BlankOn/irgsh-go/).
 
 Menurut Mohammad Anwari, salah satu pengembang senior BlankOn, nama IRGSH berasal dari rangkaian kata ir. Robot Gedek.sh. (insinyur Robot Gedek, Sarjana Hukum).
 

@@ -1,0 +1,54 @@
+<!-- =========================
+     START SPONSOR SECTION
+============================== -->
+
+
+    <section id="SPONSOR">
+        <div class="container sponsor">
+            <div class="row">
+                <div class="col-md-10 col-md-offset-1">
+                    <div class="section_title">
+                        <h2>Sponsor Proyek Blankon</h2>
+                    </div>
+				</div>
+			</div>
+			<div class="row">
+				<div class="col-xs-12 col-md-12 text-center">
+					<h3 style="margin-bottom:20px;padding-top:50px;">Peta Level</h3 style="margin-bottom:20px;padding-top:50px;">
+              {% for peta_sp in site.data.sponsors.peta %}
+                    <a href="{{ peta_sp.url}}">
+                        <img style="width:{{ peta_sp.width }}; display: inline-block; padding: 10px;" src="assets/images/sponsor/{{ peta_sp.logo}}">
+                    </a>
+              {% endfor %}
+				</div>
+
+				<div class="col-xs-12 col-md-12 text-center">
+					<h3 style="margin-bottom:20px;padding-top:50px;">Tera Level</h3 style="margin-bottom:20px;padding-top:50px;">
+            {% for tera_sp in site.data.sponsors.tera %}
+                    <a href="{{ tera_sp.url }}">
+                        <img style="width:{{ tera_sp.width }}; display: inline-block; padding: 10px;" src="assets/images/sponsor/{{ tera_sp.logo }}">
+                    </a>
+            {% endfor %}
+				</div>
+
+                <div class="col-xs-12 text-center">
+                    <h3 style="margin-bottom:20px;padding-top:50px;">Mega Level</h3 style="margin-bottom:20px;padding-top:50px;">
+
+                    <!-- <div class="owl-carousel owl-theme">
+                           <div class="item">
+                           </div>
+                    </div> -->
+
+                      {% for mega_sp in site.data.sponsors.mega %}
+                            <a href="{{ mega_sp.url }}">
+                                <img style="width:{{ mega_sp.width }}; display: inline-block; padding: 10px;" src="assets/images/sponsor/{{ mega_sp.logo }}">
+                            </a>
+                      {% endfor %}
+
+
+                </div>
+
+            </div>
+        </div>
+    </section>
+    <!-- End SPONSOR -->

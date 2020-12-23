@@ -1,3 +1,37 @@
+
+/**
+* Nav Sosmed
+*/
+.preheader {
+  background-color: #000;
+  border-bottom:2px solid #ff0000;
+  text-decoration: none;
+}
+
+.wrap-sosmed {
+  padding: 10px 2vw;
+  display: flex;
+  justify-content: space-between;
+}
+
+.wrap-sosmed .nav-contact a {
+  color: #ffffff;
+}
+
+.wrap-sosmed .nav-contact a:last-child {
+  margin-left: 20px;
+}
+.wrap-sosmed .nav-contact a .email-logo {
+  margin-right: 10px;
+}
+
+.wrap-sosmed .social {
+}
+.wrap-sosmed .social a {
+  margin-right: 10px;
+  color: #ffffff;
+}
+
 .link-post {
   text-decoration: none;
   color: inherit;
@@ -24,6 +58,11 @@
   font-size: larger;
   display: flex;
   justify-content: space-between;
+  flex-wrap: wrap;
+}
+
+.post-list {
+  list-style: none;
 }
 
 .post-body {
@@ -87,4 +126,8 @@ img {
   max-width: 1000px;
   display: block;
   align-items: center;
+}
+
+.nav-link {
+  text-transform: uppercase;
 }

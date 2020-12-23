@@ -3,6 +3,8 @@ layout: default
 title: BlankOn - Blog
 ---
 
+{% include nav-sosmed.html %}
+
 <div class="header parallax home-parallax page">
   <div class="container">
     <div class="title-jumbo-post">
@@ -15,7 +17,7 @@ title: BlankOn - Blog
 
   <div class="info-post">
     <div>
-      <p><a href="/berita.html">BERITA</a></p>
+      <p><a href="/berita/">BERITA</a></p>
       <!-- {% include breadcrumbs.html %} -->
       <!-- {{ page.date | date_to_string }} | {{ page.author }} -->
     </div>
@@ -28,7 +30,22 @@ title: BlankOn - Blog
   <hr>
   <div class="info2-post">
     <p>Author : {{ page.author }}</p>
+    <p>Editor : {{ page.editor }}</p>
     <p>Categories : {{ page.categories }}</p>
     <p>Tags : {{ page.tags }}</p>
   </div>
+
+<ul class="pagination blog-pager">
+  {% if page.previous.url %}
+  <li class="page-item previous">
+    <a class="page-link" href="{{ page.previous.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.previous.title}}">&larr; Sebelumnya</a>
+  </li>
+  {% endif %}
+  {% if page.next.url %}
+  <li class="page-item pull-right">
+    <a class="page-link" href="{{ page.next.url | relative_url }}" data-toggle="tooltip" data-placement="top" title="{{page.next.title}}">Berikutnya &rarr;</a>
+  </li>
+  {% endif %}
+</ul>
+
 </div>

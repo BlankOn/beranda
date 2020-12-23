@@ -17,4 +17,27 @@ strict_front_matter : false
 
 # Plugins
 whitelist           : []
-plugins             : []
+plugins             : ["jekyll-sitemap","jekyll-paginate"]
+
+title: BlankOn - Linux OS
+description: Ekosistem perangkat lunak legal dan kreatif, untuk, dan oleh anak negeri.
+keyword: distro linux,open source,
+
+timezone: "Asia/Jakarta"
+markdown: kramdown
+highlighter: rouge
+#permalink: /berita/:year/:title/
+# paginate: 5
+# paginate_path: "/berita/page:num/"
+excerpt_length: 50
+
+navbar-links:
+  Beranda: "#BERANDA"
+  Berita: /berita/
+  Tentang: "#TENTANG"
+  Fitur: "#FITUR"
+  Pemasangan: "#PEMASANGAN"
+  Unduh: "#UNDUH"
+  Sponsor: "#SPONSOR"
+  #Menjadi Sponsor: "/menjadi-sponsor.html"
+  Bergabung: "https://github.com/BlankOn/wiki/blob/master/Memulai.md"

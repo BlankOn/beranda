@@ -1,5 +1,6 @@
 ---
-author: Humas
+author: Estu
+editor: Herpiko
 date: 2020-11-18 19:27:17+00:00
 layout: post
 license: CC-BY-SA-3.0
@@ -11,7 +12,9 @@ tags:
 - humas
 
 ---
-<p align="center">   <img src="/assets/posts/2020-12/boni.png"> </p>
+
+![](/assets/posts/2020-12/boni.png){: .text-center .img-responsive }
+
 Hallo Pengguna BlankOn!
 
 Tim Pengembang BlankOn memutuskan untuk membuka kanal donasi untuk pengembangan BlankOn melalui media KitaBisa.com. Silahkan menuju halaman [kitabisa.com](https://kitabisa.com/campaign/urunanpengembanganblankon) untuk mulai berdonasi.
@@ -37,5 +40,5 @@ Irgsh-go memiliki beberapa komponen dengan fungsi yang berbeda-beda, antara lain
 ## Pabrik Penjahit ISO BlankOn
 Penjahitan ISO distribusi saat ini menggunakan perkakas live-build sebagai pengganti perkakas pabrik cd warisan rilis sebelumnya yang sudah tidak dipelihara dan sudah ditinggalkan. Adopsi live-build adalah salah satu proses transisi tim pengembang untuk mengikuti protokol dan standar pengembangan distribusi turunan Debian. Dengan menggunakan live-build, distribusi BlankOn Linux kesempatan yang sama atas akses terhadap teknologi-teknologi baru yang dipakai pada distribusi modern turunan Debian lainnya seperti Ubuntu, PopOS, Elementary dan lainnya. Keluaran dari riset ini adalah konfigurasi final bagaimana BlankOn Verbeek dijahit menggunakan perkakas live-build.
 
-Salam,
+Salam,  
 Tim Pengembang BlankOn

@@ -1,0 +1,8 @@
+- name: Fans
+  logo: fans.png
+  width: 30%
+  url: https://sepatuku.fans.co.id
+- name: Btech
+  logo: btech.png
+  width: 30%
+  url: https://btech.id

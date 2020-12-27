@@ -1,5 +1,6 @@
 ---
 author: Herpiko Dwi Aguno
+editor: Estu
 date: 2020-11-20 19:27:17+00:00
 layout: post
 license: CC-BY-SA-3.0
@@ -17,14 +18,14 @@ Waljinah merupakan salah satu dari beberapa mesin yang dirawat oleh proyek Blank
 
 ### Kunjungan pertama
 
-Setelah bebeberapa bulan mesin Waljinah dan layanan-layanan yang menyertainya mati, akhirnya Tim Pengembang berkesempatan melakukan kunjungan ke data center di gedung Tifa, Jakarta, untuk menjenguk mesin Waljinah pada 27 Oktober 2020. Tim Pengembang yang diutus adalah Estu Fardani (@tuanpembuan) dan Herpiko Dwi Aguno (@herpiko) dengan surat pengantar dari Slamet Santoso (Koordinator Humas).
+Setelah bebeberapa bulan mesin Waljinah dan layanan-layanan yang menyertainya mati, akhirnya Tim Pengembang berkesempatan melakukan kunjungan ke data center di gedung Tifa, Jakarta, untuk menjenguk mesin Waljinah pada 27 Oktober 2020. Tim Pengembang yang diutus adalah Estu Fardani (@tuanpembual) dan Herpiko Dwi Aguno (@herpiko) dengan surat pengantar dari Slamet Santoso (Koordinator Humas).
 
 ![97324317-4b2ee600-18a4-11eb-858d-5fcd0492c7a0](https://user-images.githubusercontent.com/2534060/99906181-3c531c00-2d08-11eb-9839-9aca6bb3fc65.jpg)
 Penampakan Waljinah saat dijenguk.
 
 Setelah diperiksa tim menemukan beberapa isu, yaitu mesin tidak mengirim sinyal ke layar monitor setelah proses boot selesai di initramfs dan konesksi jaringan mesin tidak stabil saat mesin dikembalikan ke rak. Staf dari data center membantu tim BlankOn untuk menggantikan kabel jaringannya dan memastikan koneksi kembali stabil.
 
-Tim lalu membawa SSD dan HDD Waljinah untuk mengupgrade sistem operasinya dari Wheezy sampai ke Stretch. Setelah diupgrade, SSD dan HDD dikembalikan dan dipasangkan kembali ke mesin. 
+Tim lalu membawa SSD dan HDD Waljinah untuk mengupgrade sistem operasinya dari Wheezy sampai ke Stretch. Setelah diupgrade, SSD dan HDD dikembalikan dan dipasangkan kembali ke mesin.
 
 Setelah dipastikan semua berjalan lancar, tim meninggalkan data center. Dalam perjalanan pulang, didapati Waljinah tidak dapat lagi diakses.
 
@@ -46,4 +47,3 @@ Setelah dilakukan rapat pengembang, tim pengembang tergerak untuk melakukan pend
 Urunan/penggalangan dana dilakukan di Kitabisa.com, silakan kunjungi di [pranala berikut ini](https://kitabisa.com/campaign/urunanpengembanganblankon).
 
 Apakah Waljinah akan mendapatkan rumah baru atau bahkan dipensiunkan lalu digantikan oleh mesin baru? Nantikan cerita berikutnya di blog ini.
-

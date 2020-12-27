@@ -1,5 +1,6 @@
 ---
-author: Humas
+author: Estu
+editor: Herpiko
 date: 2020-11-20 19:27:17+00:00
 layout: post
 license: CC-BY-SA-3.0
@@ -15,7 +16,7 @@ Sekilat Info untuk Pengguna BlankOn Linux
 
 Hallo Pengguna BlankOn!
 
-<p align="center">   <img src="/assets/posts/2020-12/uluwatu-desktop.png"> </p>
+![](/assets/posts/2020-12/uluwatu-desktop.png){: .text-center }
 
 Ada kabar terbaru nih dari Tim Pengembang BlankOn. Saat ini lumbung (Repository) BlankOn Uluwatu sudah kembali mengudara. Lumbung BlankOn Uluwatu sempat tidak dapat diakses beberapa waktu lalu dikarenakan kerusakan sistem dan perangkat keras.
 
@@ -28,5 +29,5 @@ Jejak tiket terkait permasalahan ini dapat dilihat bersama pada halaman :
 
 Merdeka untuk perangkat lunak terbuka, Terima kasih.
 
-Salam,
+Salam,  
 Tim Pengembang BlankOn

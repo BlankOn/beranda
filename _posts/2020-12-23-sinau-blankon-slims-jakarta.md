@@ -1,7 +1,7 @@
 ---
 author: Faiq Aminuddin
 editor: Ahmad Romadhon H.
-date: 2020-12-23 09:40:17+00:00
+date: 2020-12-23 10:45:17+00:00
 layout: post
 license: CC-BY-SA-3.0
 title: BlankOn dan Slims Perangkat Lunak Terbuka

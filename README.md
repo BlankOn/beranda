@@ -6,17 +6,6 @@ BlankOn News Website, providing news to the community.
 
 * Halaman Menjadi Sponsor? - Translate | disable menu (done)
 * Halaman Menjadi Mitra? - Translate | disable menu (done)
-* Rilis berita server baru (estu)
-* Deploy Production (samsul)
-
-## Sponsor Level
-* Peta Level
-- badak host | https://www.hostbadak.com/
-- radnet | https://www.rad.net.id/
-* Tera Level
-- Datautama | https://datautama.net.id/
-- Fans | https://sepatuku.fans.co.id/
-- Btech | https://btech.id/
 
 ## How to submit a new post?
 
@@ -27,17 +16,17 @@ BlankOn News Website, providing news to the community.
 3. Write content. You can start with the following template:
     ```
     ---
-    author: Maskot Boni
+    author: boni
+    editor: verbeek
     date: 2020-12-27 19:27:17+00:00
     layout: post
     license: CC-BY-SA-3.0
     title: My First Post
     image: /assets/posts/2020-12/omw.png
     categories:
-    - Announcements
+    - berita
     tags:
-    - infrastructure
-    - websites
+    - infra
     ---
 
     Write you post in Markdown and HTML...

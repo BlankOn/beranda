@@ -13,9 +13,9 @@ tags:
 
 ---
 
-![](https://user-images.githubusercontent.com/10925212/102694376-800e4800-4218-11eb-97bd-191790a63bfd.png){: .text-center .img-responsive }
-
 Sabtu, 19 Desember 2020 tim pengembang BlankOn mendapat kesempatan untuk berbagi pengalaman pada acara Sinau Daring Slims Jakarta. Acara yang diselenggarakan secara daring di Zoom Meeting ini merupakan hasil kerjasama komunitas pengguna Slims Jakarta, Perpustakaan Kemendikbud dan BlankOn.
+
+![](https://user-images.githubusercontent.com/10925212/102694376-800e4800-4218-11eb-97bd-191790a63bfd.png){: .text-center .img-responsive }
 
 BlankOn dan Slims, keduanya merupakan perangkat lunak yang bersifat _open source_. Slims adalah aplikasi otomatisasi perpustakaan _open source_ yang dapat diterapkan pada berbagai sistem operasi termasuk pada sistem operasi BlankOn Linux.
 
@@ -27,3 +27,4 @@ Selanjutnya, pak Herpiko memperagakan proses instalasi sistem operasi BlankOn da
 
 Pada sesi tanya jawab dan diskusi, muncul usulan dari kominutas Slims Jakarta agar pengembang BlankOn membantu pengembangan sistem operasi beserta Slims yang siap dipasang di komputer mini seperti Raspberry pi sehingga lebih mudah untuk membuat semacam perpustakaan mini digital.
 
+Salam

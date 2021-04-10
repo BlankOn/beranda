@@ -1,4 +1,14 @@
-
+---
+author: Umul Sidiqoh
+date: 2021-01-29 09:27:17+00:00
+layout: post
+license: CC-BY-SA-3.0
+title: Pengembang BlankOn Gelar Lokakarya Git dan Markdown
+image: /assets/posts/2021-01/kelasgit-pemula.png
+categories:
+- berita
+tags:
+- humas
 
 ---
 Di awal tahun 2021 ini, Tim pengembang BlankOn telah melaksanakan kelas git dan markdown. Kelas ini diisi oleh pengembang dan untuk pengembang pula. Tujuannya, agar para pengembang lebih mudah dalam berkolaborasi dalam menggunakan git. 

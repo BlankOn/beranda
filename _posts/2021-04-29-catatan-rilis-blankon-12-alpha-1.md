@@ -16,7 +16,7 @@ Halo kawan-kawan, pecinta Linux dan pejuang perangkat lunak bebas dan terbuka.
 
 Tepat pada hari ke-17 bulan Ramadhan tahun 1442 H atau bertepatan dengan tanggal 29 April 2021 M para pengembang BlankOn menerbitkan rilis Alpha-1. Pada rilis ini pengembang BlankOn hanya menerbitkan untuk arsitektur amd64 versi pengembangan yang ditujukan untuk pengujian. Karena merupakan versi pengembangan, masih akan ditemukan banyak kutu untuk diperbaiki pada rilis pengembangan versi berikutnya.
 
-![verbeek_29_04_2021_05_58_35](https://user-images.githubusercontent.com/1231314/116484717-e0db1a80-a8b3-11eb-82dc-f975eeb0e6f5.png)
+![verbeek_29_04_2021_08_26_02](https://user-images.githubusercontent.com/1231314/116491661-98782880-a8c4-11eb-8076-15db8c0d9460.png)
 
 Cetakan ISO untuk Alpha-1 ini dapat diunduh di : http://cdimage.blankonlinux.or.id/blankon/rilis/verbeek/Alpha-1/
 

@@ -18,11 +18,11 @@ Tepat pada hari ke-17 Ramadhan tahun 1442 H atau bertepatan dengan tanggal 29 Ap
 
 ![verbeek_29_04_2021_08_26_02](https://user-images.githubusercontent.com/1231314/116491661-98782880-a8c4-11eb-8076-15db8c0d9460.png)
 
-Berkas ISO untuk Alpha-1 ini dapat diunduh di: https://cdimage.blankonlinux.or.id/blankon/rilis/verbeek/Alpha-1/
+Berkas ISO untuk Alpha-1 ini dapat diunduh di: <https://cdimage.blankonlinux.or.id/blankon/rilis/verbeek/Alpha-1/>
 
-Daftar masalah yang diketahui pada rilis Alpha-1 ini dapat dibaca di https://github.com/BlankOn/Verbeek/labels/Jahitan
+Daftar masalah yang diketahui pada rilis Alpha-1 ini dapat dibaca di <https://github.com/BlankOn/Verbeek/labels/Jahitan>
 
-Apabila menemukan masalah pada Rilis Alpha-1 BlankOn 12 Verbeek, silakan laporkan melalui https://lapor.blankon.id
+Apabila menemukan masalah pada Rilis Alpha-1 BlankOn 12 Verbeek, silakan laporkan melalui <https://lapor.blankon.id>
 
 Beberapa catatan untuk rilis Alpha-1 kali ini:
 

@@ -32,7 +32,7 @@ BlankOn News Website, providing news to the community.
     Write you post in Markdown and HTML...
 
     ```
-    The date and time you set here, in the header, will be the date and time your article, once merged, will be published and available on [news.opensuse.org](https://news.opensuse.org). If you set the current day's date, be aware that there might be up to 2 hours delay between the time the PR got accepted and the time it actually gets picked up by the server.
+    The date and time you set here, in the header, will be the date and time your article, once merged, will be published and available on [blankon.id/berita](https://blankon.id/berita/). If you set the current day's date, be aware that there might be up to 2 hours delay between the time the PR got accepted and the time it actually gets picked up by the server.
 
 4. Save the file and create a pull request. You can find the button at page bottom.
 

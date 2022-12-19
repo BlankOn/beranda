@@ -29,4 +29,5 @@ Semoga, kita selalu semangat untuk terus berkontribusi di manapun dan kapanpun! 
 
 ![](/assets/posts/SosialisasiNF.jpg){: .text-center .img-responsive }
 ![Poster Acara](https://drive.google.com/file/d/1tiUZnM48gKjcstHNuD2p7k2cyLwntrfm/view?usp=share_link){: .text-center .img-responsive }
+[Salindia Pak Somat](https://drive.google.com/file/d/19bJCnU4dDc5s63nLI2J6L1poklQPTxg9/view?usp=share_link)
 

@@ -10,6 +10,7 @@ categories:
 - berita
 tags:
 - humas
+- dokumentasi
 
 ---
 # Sayembara Menulis Panduan FOSS Dibuka Lagi dengan Hadiah yang Lebih Besar

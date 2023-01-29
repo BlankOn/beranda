@@ -43,3 +43,5 @@ Cek yuk, ketentuannya di bawah ini:
 3. Juara III akan mendapatkan buku karya Pak Sokibi yang berjudul: "Menulis Buku dengan LibreOffice". 
 
 4. Juara I, II, III,  mendapat piagam atau sertifikat dari panitia.
+
+![](/assets/posts/2023-01/sayembara2301.png)
